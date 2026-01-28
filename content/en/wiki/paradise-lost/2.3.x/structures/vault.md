@@ -17,9 +17,9 @@ Vaults are rare, fully buried structures built to conceal and protect it's inhab
 * The **Garden** is the middle floor and is made mostly of stone with many wall mounted farms for growing crops
 * The **Catacomb** are narrow, clautrophobic tunnels that snake underneath the structure
 
-This Structure is sparsely populated, but the few [Envoys](/wiki/paradise-lost/mobs/envoy/) you find will be **Enlightened** and more difficult to kill. Most of the good loot will be found in the **Complex** but the other two levels also have secrets to be uncovered.
+This Structure is sparsely populated, but the few [Envoys](/wiki/paradise-lost/2.3.x/mobs/envoy/) you find will be **Enlightened** and more difficult to kill. Most of the good loot will be found in the **Complex** but the other two levels also have secrets to be uncovered.
 
-One of the best ways to find this structure is to find a **Vault Explorer Map** in the chest of an [Aurel Tower](/wiki/paradise-lost/structures/aurel-tower/).
+One of the best ways to find this structure is to find a **Vault Explorer Map** in the chest of an [Aurel Tower](/wiki/paradise-lost/2.3.x/structures/aurel-tower/).
 
 ### Glazed Gold
 The structure exclusive loot that makes this structure worth looting are the **Glazed Gold Upgrade** smithing templates and **Glazed Gold** equipment.
@@ -29,17 +29,17 @@ They make great enchantment-specific tools as they are easy to get rare enchantm
 
 ## Spawning Location
 Vault can spawn in the following biomes:
-* [Autumnal Tundra](/wiki/paradise-lost/biomes/autumnal-tundra/)
-* [Continental Plateau](/wiki/paradise-lost/biomes/continental-plateau/)
-* [Highlands](/wiki/paradise-lost/biomes/highlands/)
-* [Highlands Forest](/wiki/paradise-lost/biomes/highlands-forest/)
-* [Highlands Grand Glade](/wiki/paradise-lost/biomes/highlands-thicket/)
-* [Wisteria Woods](/wiki/paradise-lost/biomes/wisteria-woods/)
-* [Highlands Shield](/wiki/paradise-lost/biomes/highlands-shield/)
-* [Highlands Thicket](/wiki/paradise-lost/biomes/highlands-thicket/)
+* [Autumnal Tundra](/wiki/paradise-lost/2.3.x/biomes/autumnal-tundra/)
+* [Continental Plateau](/wiki/paradise-lost/2.3.x/biomes/continental-plateau/)
+* [Highlands](/wiki/paradise-lost/2.3.x/biomes/highlands/)
+* [Highlands Forest](/wiki/paradise-lost/2.3.x/biomes/highlands-forest/)
+* [Highlands Grand Glade](/wiki/paradise-lost/2.3.x/biomes/highlands-thicket/)
+* [Wisteria Woods](/wiki/paradise-lost/2.3.x/biomes/wisteria-woods/)
+* [Highlands Shield](/wiki/paradise-lost/2.3.x/biomes/highlands-shield/)
+* [Highlands Thicket](/wiki/paradise-lost/2.3.x/biomes/highlands-thicket/)
 
 ## Inhabitants
-Vaults are sparsely populated with [Enlightened Envoys](/wiki/paradise-lost/mobs/envoy/) wearing Glazed Gold armor and wielding Glazed Gold Swords.
+Vaults are sparsely populated with [Enlightened Envoys](/wiki/paradise-lost/2.3.x/mobs/envoy/) wearing Glazed Gold armor and wielding Glazed Gold Swords.
 
 ## Loot
 Vault chests can contain the following:

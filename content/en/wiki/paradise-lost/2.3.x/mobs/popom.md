@@ -24,9 +24,9 @@ Popoms are tempted and bred with any small flower items.
 
 ## Spawn Locations
 Popoms can be found in the following biomes:
-* [Highlands](/wiki/paradise-lost/biomes/highlands/) (common)
-* [Wisteria Woods](/wiki/paradise-lost/biomes/wisteria-woods/) (common)
-* [Highlands Forest](/wiki/paradise-lost/biomes/highlands-forest/) (uncommon)
+* [Highlands](/wiki/paradise-lost/2.3.x/biomes/highlands/) (common)
+* [Wisteria Woods](/wiki/paradise-lost/2.3.x/biomes/wisteria-woods/) (common)
+* [Highlands Forest](/wiki/paradise-lost/2.3.x/biomes/highlands-forest/) (uncommon)
 
 ## Drops
 

@@ -38,9 +38,9 @@ Small and Medium Aurel trees generate in clusters and small floestone boulders c
 ## Mobs
 
 ### Friendly
-* **[Moas](/wiki/paradise-lost/mobs/moa/)** can be found in this biome
-* **[Popoms](/wiki/paradise-lost/mobs/popom/)** are uncommon in this biome
+* **[Moas](/wiki/paradise-lost/2.3.x/mobs/moa/)** can be found in this biome
+* **[Popoms](/wiki/paradise-lost/2.3.x/mobs/popom/)** are uncommon in this biome
 
 
 ### Hostile
-* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/2.3.x/mobs/envoy/)** spawn in this biome at night and in dark areas

@@ -21,4 +21,4 @@ If a player is falling into the Void of either Paradise or The End, the Totem of
 If a player would recieve fatal fall damage, the Totem of Levitation will activate and give the player a brief moment of slow fall to prevent any fall damage from being taken. 
 
 ## Obtaining
-Totems of Levitation are loot-only items obtained exclusively from the Trial Spawners and Tomb loot in **[Birdcage](/wiki/paradise-lost/structures/birdcage/)** structures.
+Totems of Levitation are loot-only items obtained exclusively from the Trial Spawners and Tomb loot in **[Birdcage](/wiki/paradise-lost/2.3.x/structures/birdcage/)** structures.

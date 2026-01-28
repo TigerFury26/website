@@ -13,7 +13,7 @@ weight: 2
 Two Moa eggs incubating on the porch of a small house.
 
 ## Obtaining Moa Eggs
-Breeding two [Moas](/wiki/paradise-lost/mobs/moa/) does not immediately spawn a child, but instead drops a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. 
+Breeding two [Moas](/wiki/paradise-lost/2.3.x/mobs/moa/) does not immediately spawn a child, but instead drops a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. 
 
 ### Hatch Time
 Hatch time is determined by the biome where the incubation is taking place. Incubating in warmer biomes is easier and thus hatching will be quicker.

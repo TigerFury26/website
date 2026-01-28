@@ -36,10 +36,10 @@ Small Mottled Aurel trees can be found rarely, and small ice spikes frequently p
 ## Mobs
 
 ### Friendly
-* **[Moas](/wiki/paradise-lost/mobs/moa/)** can be found in this biome
+* **[Moas](/wiki/paradise-lost/2.3.x/mobs/moa/)** can be found in this biome
 
 
 ### Hostile
-* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/2.3.x/mobs/envoy/)** spawn in this biome at night and in dark areas
 
 

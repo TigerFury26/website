@@ -29,24 +29,24 @@ The Paradise portal is built exactly like a **Nether** portal with a minimum int
 Paradise Lost has many advancements that can be viewed in game, but if you want some hints on what to do:
 
 ### Moas
-[Moas](/wiki/paradise-lost/mobs/moa/) are (perhaps overpowered) mounts that can glide around and store 20 slots worth of items. They come in many colors and are valuable in Paradise due to the frequent gaps between islands that would otherwise require bridging to cross. Check out their wiki page to learn how to tame and breed them!
+[Moas](/wiki/paradise-lost/2.3.x/mobs/moa/) are (perhaps overpowered) mounts that can glide around and store 20 slots worth of items. They come in many colors and are valuable in Paradise due to the frequent gaps between islands that would otherwise require bridging to cross. Check out their wiki page to learn how to tame and breed them!
 
 ### Popoms
-[Popoms](/wiki/paradise-lost/mobs/popom/) are peaceful animals that can be farmed for useful healing items and are generally very cute. Check out their wiki page for more information about them!
+[Popoms](/wiki/paradise-lost/2.3.x/mobs/popom/) are peaceful animals that can be farmed for useful healing items and are generally very cute. Check out their wiki page for more information about them!
 
 ### Structures
-If you are looking for loot, it's best to start by searching out an [Aurel Tower](/wiki/paradise-lost/structures/aurel-tower/) that has a **Vault Explorer Map**. This map will lead you to the nearest [Vault](/wiki/paradise-lost/structures/vault/) structure, where you can find exclusive **Glazed Gold Upgrade** smithing templates among other goodies.
+If you are looking for loot, it's best to start by searching out an [Aurel Tower](/wiki/paradise-lost/2.3.x/structures/aurel-tower/) that has a **Vault Explorer Map**. This map will lead you to the nearest [Vault](/wiki/paradise-lost/2.3.x/structures/vault/) structure, where you can find exclusive **Glazed Gold Upgrade** smithing templates among other goodies.
 
-You may also come across a [Birdcage](/wiki/paradise-lost/structures/birdcage/) structure where you can find **Totems of Levitation** which can save you from lethal falls or pull you out of the void (**even in the End!**)
+You may also come across a [Birdcage](/wiki/paradise-lost/2.3.x/structures/birdcage/) structure where you can find **Totems of Levitation** which can save you from lethal falls or pull you out of the void (**even in the End!**)
 
 ### Farming
 Paradise is home to a few different crops:
-* **Amadrys** is a wheat-adjacent crop that **requires at least 2 neighboring water source blocks** to grow. You can get some by breaking **Honey Nettles** in a [Highlands Shield](/wiki/paradise-lost/biomes/highlands-shield/)
-* **Flax** is a two block tall crop that grows into flax thread that can be used to make lots of string or wool without the hassle of Spiders or Sheep. It is found in small patches in the grassy areas of [Highlands Shields](/wiki/paradise-lost/biomes/highlands-shield/)
-* **Nitra** are explosive vegetables that can be thrown like snowballs or bundled up into bunches that act as **immediately detonating TNT blocks**. You can rarely find Nitra Seeds in [Aurel Towers](/wiki/paradise-lost/structures/aurel-tower/)
+* **Amadrys** is a wheat-adjacent crop that **requires at least 2 neighboring water source blocks** to grow. You can get some by breaking **Honey Nettles** in a [Highlands Shield](/wiki/paradise-lost/2.3.x/biomes/highlands-shield/)
+* **Flax** is a two block tall crop that grows into flax thread that can be used to make lots of string or wool without the hassle of Spiders or Sheep. It is found in small patches in the grassy areas of [Highlands Shields](/wiki/paradise-lost/2.3.x/biomes/highlands-shield/)
+* **Nitra** are explosive vegetables that can be thrown like snowballs or bundled up into bunches that act as **immediately detonating TNT blocks**. You can rarely find Nitra Seeds in [Aurel Towers](/wiki/paradise-lost/2.3.x/structures/aurel-tower/)
 * **Swedroot** is a root that grows down from soil blocks that have a **water source block placed above**. It can be turned into sugar as an alternative to Sugar Canes. It's found infrequently growing underneath Paradise islands.
 
-If you can get a Mother Aurel Sapling from a [Highlands Thicket](/wiki/paradise-lost/biomes/highlands-thicket/) biome (or find one in a [Vault](/wiki/paradise-lost/structures/vault/)), you'll be able to strip **Golden Amber** off of the logs to get cheap renewable Gold.
+If you can get a Mother Aurel Sapling from a [Highlands Thicket](/wiki/paradise-lost/2.3.x/biomes/highlands-thicket/) biome (or find one in a [Vault](/wiki/paradise-lost/2.3.x/structures/vault/)), you'll be able to strip **Golden Amber** off of the logs to get cheap renewable Gold.
 
 ### Cracking a Meteorite
 Between Paradise islands you may spot a partially encased **Surtrum Meteorite**. These can be cracked open with either a Diamond+ mining level pickaxe or with explosives (TNT or Nitra Bunches). Inside you'll find a plentiful amount of Sutrum that can be refined into cheap, fireproof Diamond mining level tools.
@@ -65,4 +65,4 @@ An uncommon red metal found inside Surtrum Meteorites that hover in the lower ga
 Can be used to make a Bloodstone that displays the stats of a Moa.
 
 ### Glazed Gold
-A loot-exclusive Gold alternative obtained in [Vault](/wiki/paradise-lost/structures/vault/) structures. Serves as an upgraded version of Gold, retaining the high enchantability and mining speed but raising the mining level and durability to be on par with Iron. 
+A loot-exclusive Gold alternative obtained in [Vault](/wiki/paradise-lost/2.3.x/structures/vault/) structures. Serves as an upgraded version of Gold, retaining the high enchantability and mining speed but raising the mining level and durability to be on par with Iron. 

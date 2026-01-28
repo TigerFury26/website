@@ -38,11 +38,11 @@ Under the canopy of the forest, this biome has lots of grass, bushes, and flower
 ## Mobs
 
 ### Friendly
-* **[Moas](/wiki/paradise-lost/mobs/moa/)** can be found in this biome
-* **[Popoms](/wiki/paradise-lost/mobs/popom/)** are common in this biome
+* **[Moas](/wiki/paradise-lost/2.3.x/mobs/moa/)** can be found in this biome
+* **[Popoms](/wiki/paradise-lost/2.3.x/mobs/popom/)** are common in this biome
 
 
 ### Hostile
-* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/2.3.x/mobs/envoy/)** spawn in this biome at night and in dark areas
 
 

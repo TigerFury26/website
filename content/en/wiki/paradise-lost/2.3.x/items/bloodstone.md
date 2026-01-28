@@ -44,7 +44,7 @@ The Cherine Bloodstone is used for viewing Moa-specific stats to help with breed
 * Flying Speed
 * Gliding Decay Rate
 
-For more information for how these stats effect a Moa, please read the **[Moa Wiki Page](/wiki/paradise-lost/mobs/moa/)** and the **[Moa Breeding Guide](/wiki/paradise-lost/guides/moa-breeding/)**.
+For more information for how these stats effect a Moa, please read the **[Moa Wiki Page](/wiki/paradise-lost/2.3.x/mobs/moa/)** and the **[Moa Breeding Guide](/wiki/paradise-lost/2.3.x/guides/moa-breeding/)**.
 
 ## Obtaining
 Each Bloodstone is crafted with 1 stick and 1 of the material; either Cherine, Olvite, or Surtrum.

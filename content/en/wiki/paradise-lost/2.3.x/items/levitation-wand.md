@@ -28,4 +28,4 @@ Mobs can be levitated at the cost of 1 durability (reduced by Unbreaking). Levit
 ## Obtaining
 A Levitation Wand is crafted with 2 sticks and 1 Levita Bead which can be obtained by mining Levita ore rarely found in all Paradise biomes.
 
-Levitation Wands are rarely dropped as loot as rewards from the Trial Spawners in **[Birdcage](/wiki/paradise-lost/structures/birdcage/)** structures.
+Levitation Wands are rarely dropped as loot as rewards from the Trial Spawners in **[Birdcage](/wiki/paradise-lost/2.3.x/structures/birdcage/)** structures.

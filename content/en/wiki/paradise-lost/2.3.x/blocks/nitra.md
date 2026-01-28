@@ -23,6 +23,6 @@ Nitra Bunches act similar to TNT but do not have a fuse, instead detonating inst
 Nitra Bunches can be useful for cheap renewable excavation and for sneaky player traps.
 
 ## Obtaining
-Nitra is grown from Nitra seeds found commonly in **[Aurel Tower](/wiki/paradise-lost/structures/aurel-tower/)** structures or rarely in **[Birdcage](/wiki/paradise-lost/structures/birdcage/)** structures.
+Nitra is grown from Nitra seeds found commonly in **[Aurel Tower](/wiki/paradise-lost/2.3.x/structures/aurel-tower/)** structures or rarely in **[Birdcage](/wiki/paradise-lost/2.3.x/structures/birdcage/)** structures.
 
 Nitra is planted normally like other crops and has 8 growth states. In it's final growth state it will drop one Nitra Bulb and 1-4 Nitra Seeds.

@@ -13,13 +13,13 @@ An Aurel Tower generated on the border of a Highlands and Highlands Forest.
 
 ## Description
 Aurel Towers are common surface structures that can be used as a lookout point or landmark.
-They do not have much loot of their own but are the easiest way to obtain **Nitra** seeds, and occasionally have **Vault Explorer Maps** that can be used to locate [Vault](/wiki/paradise-lost/structures/vault/) structures.
+They do not have much loot of their own but are the easiest way to obtain **Nitra** seeds, and occasionally have **Vault Explorer Maps** that can be used to locate [Vault](/wiki/paradise-lost/2.3.x/structures/vault/) structures.
 
 ## Spawning Location
 Aurel Towers spawn on the surface of the following biomes:
-* [Highlands](/wiki/paradise-lost/biomes/highlands/)
-* [Highlands Forest](/wiki/paradise-lost/biomes/highlands-forest/)
-* [Highlands Thicket](/wiki/paradise-lost/biomes/highlands-thicket/)
+* [Highlands](/wiki/paradise-lost/2.3.x/biomes/highlands/)
+* [Highlands Forest](/wiki/paradise-lost/2.3.x/biomes/highlands-forest/)
+* [Highlands Thicket](/wiki/paradise-lost/2.3.x/biomes/highlands-thicket/)
 
 ## Inhabitants
 Aurel Towers have no inhabitants.

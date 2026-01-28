@@ -16,7 +16,7 @@ Redstone Levitators are a form of controlled block levitation that can be used t
 
 When powered, Redstone Levitators will float upwards until they encounter a ceiling where they will stop levitating and become a block again. 
 
-**[Golden Clouds](/wiki/paradise-lost/blocks/clouds/)** are especially useful for returning a Redstone Levitator back down to its starting position.
+**[Golden Clouds](/wiki/paradise-lost/2.3.x/blocks/clouds/)** are especially useful for returning a Redstone Levitator back down to its starting position.
 
 ## Obtaining
 Redstone Levitators are quite expensive, each requiring 3 Levita Beads with 2 Redstone and 4 Heliolith Bricks, however for a simple elevator 1 Redstone Levitator is usually sufficient.
