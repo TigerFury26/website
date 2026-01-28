@@ -14,7 +14,7 @@ A newborn Greenseed Moa in a large enclosure.
 
 ## Moa Breeding
 
-[Moas](/wiki/paradise-lost/2.4.x/mobs/moa/) are tempted and bred with **Oranges** harvested from Orange trees. The offspring will have an equal chance of inheriting the pattern of each parent unless a special breeding result exists. Children will inherit improved stats from their parent meaning that the children will have **equal or better stats**.
+[Moas](/wiki/paradise-lost/2.4.x/mobs/moa/) are tempted by raw meat and bred with sweet items like sugar, swedroot, or [Popom Jelly](/wiki/paradise-lost/2.4.x/mobs/popom/). The offspring will have an equal chance of inheriting the pattern of each parent unless a special breeding result exists. Children will inherit improved stats from their parent meaning that the children will have **equal or better stats**.
 
 Breeding [Moas](/wiki/paradise-lost/2.4.x/mobs/moa/) does not immediately spawn the child, instead dropping a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. Incubation is affected by multiple factors, which you can read about in the **[Incubation Guide](/wiki/paradise-lost/2.4.x/guides/incubation/)**.
 

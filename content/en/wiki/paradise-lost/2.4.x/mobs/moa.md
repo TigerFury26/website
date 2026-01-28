@@ -29,7 +29,7 @@ Each Moa has six associated stats that can be checked with an **[Surtrum Bloodst
 * **Max Health** represents the maximum health this Moa has, between **7.5 hearts** and **20 hearts**
 
 ### Breeding
-Moas are tempted and bred with **Oranges** harvested from Orange trees. The offspring will have an equal chance of inheriting the pattern of each parent unless a special breeding result exists. Consult the **[Moa Breeding Guide](/wiki/paradise-lost/2.4.x/guides/moa-breeding/)**. Children will inherit improved stats from their parent meaning that the children will have **equal or better stats**.
+Moas are bred with sweet items like sugar, swedroot, or [Popom Jelly](/wiki/paradise-lost/2.4.x/mobs/popom/). The offspring will have an equal chance of inheriting the pattern of each parent unless a special breeding result exists. Consult the **[Moa Breeding Guide](/wiki/paradise-lost/2.4.x/guides/moa-breeding/)**. Children will inherit improved stats from their parent meaning that the children will have **equal or better stats**.
 
 Breeding Moas does not immediately spawn the child, instead dropping a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. Incubation is affected by multiple factors, which you can read about in the **[Incubation Guide](/wiki/paradise-lost/2.4.x/guides/incubation/)**.
 
