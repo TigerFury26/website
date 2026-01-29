@@ -23,5 +23,10 @@ Blue Clouds fling all entites that collide with them 18 blocks up in the air, ma
 ### Golden Cloud
 Golden Clouds forcefully fling all entites that collide with them downwards, inflicting fall damage if the ground is not soft. When placed with no space below, there is no effect on entities.
 
+### Green Cloud
+Green Clouds are a craftable cloud variant that flings in any direction based on the placement direction of the block, allowing for much higher control and ease of use for player contraptions.
+
 ## Obtaining
 Cloud blocks are found very commonly at all elevations in Paradise. Some biomes may have different proportions of clouds, and the biggest clouds are often near the bottom or top of the dimension.
+
+Green Clouds are the exception to this, and are obtained only via crafting a Blue Cloud with a Golden Cloud.
